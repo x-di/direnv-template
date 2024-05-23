@@ -2,8 +2,8 @@
   description = "direnv php80";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
-    php-80.url = "github:nixos/nixpkgs/3007746b3f5bfcb49e102b517bca891822a41b31"; # ambil dari nixhub
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    php-80.url = "github:NixOS/nixpkgs/3007746b3f5bfcb49e102b517bca891822a41b31"; # ambil dari nixhub
     utils.url = "github:numtide/flake-utils";
   };
 
